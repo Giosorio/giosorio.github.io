@@ -9,5 +9,6 @@
 - deployment 
 - .gitignore
 
->La herramienta perfecta para equipos de trabajo que necesiten hacer seguimiento a un proyecto y todos trabajen sobre los mismos archivos 
-####Toma el curso [Git y GitHub](https://platzi.com/clases/git-github/)
+>La herramienta perfecta para equipos de trabajo que necesiten hacer seguimiento a un proyecto y todos trabajen sobre los mismos archivos
+ 
+#### Toma el curso [Git y GitHub](https://platzi.com/clases/git-github/)
